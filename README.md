@@ -1,3 +1,5 @@
+### Try it out [here](https://huggingface.co/spaces/sjw/Spotify-Chatbot) & watch the [informational video](link).
+
 # Overview
 
 This chatbot interacts with your Spotify to provide a personalized and intelligent music experience. Leveraging Spotify's Web API and OpenAI's GPT-4 model (among others), this project is a fun example of how APIs, machine learning models, and natural language processing can be combined to create useful applications.
@@ -5,8 +7,6 @@ This chatbot interacts with your Spotify to provide a personalized and intellige
 Mood-based recommendations and automatic playlist creation are just a command away!
 
 ![Commands](commands.png)
-
-### Try it out [here](https://huggingface.co/spaces/sjw/Spotify-Chatbot) and watch the [informational video](link).
 
 # Resources
 
