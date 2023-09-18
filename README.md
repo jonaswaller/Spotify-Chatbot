@@ -11,6 +11,8 @@ Leveraging Spotify's Web API and OpenAI's GPT-4 model (among others), this proje
 
 Mood-based recommendations and automatic playlist creation are just a command away!
 
+I'd love to hear your feedback [stuart.j.waller@vanderbilt.edu](mailto:stuart.j.waller@vanderbilt.edu)
+
 # Resources
 
 ### Inspiration
@@ -37,5 +39,3 @@ Mood-based recommendations and automatic playlist creation are just a command aw
 ### Future Improvements
 - [Fine-tuning Large Language Models](https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset)
 - [Text-to-Speech for LangChain Agents](https://www.youtube.com/watch?v=N4k459Zw2PU)
-
-I'd love to hear your feedback. [stuart.j.waller@vanderbilt.edu](mailto:stuart.j.waller@vanderbilt.edu)
