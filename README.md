@@ -7,9 +7,9 @@ This chatbot interacts with your Spotify to provide a personalized and intellige
 
 Leveraging Spotify's Web API and OpenAI's GPT-4 model (among others), this project is a fun example of how APIs, machine learning models, and natural language processing can be combined to create useful applications.
 
-Mood-based recommendations and automatic playlist creation are just a command away!
-
 ![Commands](commands.png)
+
+Mood-based recommendations and automatic playlist creation are just a command away!
 
 # Resources
 
