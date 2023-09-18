@@ -1,14 +1,14 @@
-# Project Overview
+# Overview
 
-This project is a comprehensive music recommendation and control system. It leverages Spotify's Web API and OpenAI's GPT-4 model to deliver a highly personalized and interactive music experience. 
+This chatbot interacts with your Spotify to provide a personalized and intelligent music experience. Leveraging Spotify's Web API and OpenAI's GPT-4 model (among others), this project is a fun example of how APIs, machine learning models, and natural language processing can be combined to create useful applications.
+
+Mood-based recommendations and automatic playlist creation are just a command away!
 
 ![Commands](commands.png)
 
-Mood-based recommendations and automatic playlist creation are just a command away! This project serves as a fun example of how APIs, machine learning models, and natural language processing can be combined to create useful applications.
+### Try it out [here](https://huggingface.co/spaces/sjw/Spotify-Chatbot) and watch the [informational video](link).
 
-Try it out [here](https://huggingface.co/spaces/sjw/Spotify-Chatbot) and watch the [informational video](link).
-
-## Resources
+# Resources
 
 ### Project Inspiration
 - [Spotify Langchain ChatGPT](https://jonathansoma.com/words/spotify-langchain-chatgpt.html)
@@ -33,7 +33,6 @@ Try it out [here](https://huggingface.co/spaces/sjw/Spotify-Chatbot) and watch t
 
 ### Future Improvements
 - [Fine-tuning a model for this application](https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset)
-- Adding audio
-- [How to Talk to Your Langchain Agent | 11 Labs + Whisper](link)
+- [Adding audio to Langchain Agent](https://www.youtube.com/watch?v=N4k459Zw2PU)
 
-For any feedback, please reach out to me at [stuart.j.waller@vanderbilt.edu](mailto:stuart.j.waller@vanderbilt.edu).
+I'd love to hear your feedback. [stuart.j.waller@vanderbilt.edu](mailto:stuart.j.waller@vanderbilt.edu).
