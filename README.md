@@ -1,4 +1,5 @@
-### Try it out [here](https://huggingface.co/spaces/sjw/Spotify-Chatbot) & watch the [informational video](link).
+### [Live Project](https://huggingface.co/spaces/sjw/Spotify-Chatbot) 
+### [Informational Video](link)
 
 # Overview
 
