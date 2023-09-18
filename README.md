@@ -22,7 +22,7 @@ I'd love to hear your feedback [stuart.j.waller@vanderbilt.edu](mailto:stuart.j.
 ### Custom Functions
 - [OpenAI Functions Agent Documentation](https://python.langchain.com/docs/modules/agents/how_to/custom-functions-with-openai-functions-agent)
 - [Spotipy Documentation](https://spotipy.readthedocs.io/en/2.22.1/)
-- [Custom Spotify Functions + LangChain Video](https://www.youtube.com/watch?v=LSQ5fkR6B3k))
+- [Custom Spotify Functions + LangChain Video](https://www.youtube.com/watch?v=LSQ5fkR6B3k)
 
 ### Chatbot Interface
 - [Gradio Chatbot Documentation](https://www.gradio.app/guides/creating-a-custom-chatbot-with-blocks)
