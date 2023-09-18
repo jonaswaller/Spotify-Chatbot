@@ -13,29 +13,29 @@ Mood-based recommendations and automatic playlist creation are just a command aw
 
 # Resources
 
-### Project Inspiration
+### Inspiration
 - [Spotify + LangChain Project](https://jonathansoma.com/words/spotify-langchain-chatgpt.html)
-- [Improvements for Spotify's existing DJ](https://bootcamp.uxdesign.cc/ai-for-you-4-predictions-for-spotify-dj-b968c60488db)
+- [Improving Spotify's Existing DJ](https://bootcamp.uxdesign.cc/ai-for-you-4-predictions-for-spotify-dj-b968c60488db)
 
 ### Custom Functions
-- [Custom Functions with OpenAI Functions Agent](https://python.langchain.com/docs/modules/agents/how_to/custom-functions-with-openai-functions-agent)
+- [OpenAI Functions Agent Documentation](https://python.langchain.com/docs/modules/agents/how_to/custom-functions-with-openai-functions-agent)
 - [Spotipy Documentation](https://spotipy.readthedocs.io/en/2.22.1/)
-- [Spotify + LangChain Video](link)
+- [Custom Spotify Functions + LangChain Video](link)
 
 ### Chatbot Interface
-- [Creating a Custom Chatbot with Gradio Blocks](https://www.gradio.app/guides/creating-a-custom-chatbot-with-blocks)
+- [Gradio Chatbot Documentation](https://www.gradio.app/guides/creating-a-custom-chatbot-with-blocks)
 - [Gradio Theming Guide](https://www.gradio.app/guides/theming-guide)
 
 ### Mood Detection
-- [Sentence Similarity](https://huggingface.co/tasks/sentence-similarity)
-- [Helpful Conversation With ChatGPT](https://chat.openai.com/share/7066590c-36b9-4ddf-9f5f-3dc9e5194f8a)
+- [Sentence Similarity Guide](https://huggingface.co/tasks/sentence-similarity)
+- [Helpful ChatGPT Conversation](https://chat.openai.com/share/7066590c-36b9-4ddf-9f5f-3dc9e5194f8a)
 
 ### User Isolation
-- [State in Gradio Blocks](https://www.gradio.app/guides/state-in-blocks)
-- [Spotify Web API Tutorials: Implicit Flow](https://developer.spotify.com/documentation/web-api/tutorials/implicit-flow)
+- [Gradio's State Feature](https://www.gradio.app/guides/state-in-blocks)
+- [Spotify Web API: Implicit Flow](https://developer.spotify.com/documentation/web-api/tutorials/implicit-flow)
 
 ### Future Improvements
-- [Fine-tuning a Large Language Model](https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset)
-- [Text-to-Speech + LangChain Agents](https://www.youtube.com/watch?v=N4k459Zw2PU)
+- [Fine-tuning Large Language Models](https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset)
+- [Text-to-Speech for LangChain Agents](https://www.youtube.com/watch?v=N4k459Zw2PU)
 
 I'd love to hear your feedback. [stuart.j.waller@vanderbilt.edu](mailto:stuart.j.waller@vanderbilt.edu)
