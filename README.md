@@ -1,5 +1,5 @@
  ### 🤖 [Try the Chatbot](https://huggingface.co/spaces/sjw/Spotify-Chatbot) 🤖
-✨ [Informational Video](link) ✨
+✨ [Informational Video](https://www.youtube.com/channel/UCVfmfJrC13e91IHcG-F7qzg) ✨
 
 # Overview
 
