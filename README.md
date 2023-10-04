@@ -11,8 +11,6 @@ Leveraging Spotify's developer resources and OpenAI's GPT-4, this project is a f
 
 Mood-based recommendations and automatic playlist curations are just a command away!
 
-I'd love to hear your feedback [stuart.j.waller@vanderbilt.edu](mailto:stuart.j.waller@vanderbilt.edu)
-
 # Resources
 
 ### Inspiration
