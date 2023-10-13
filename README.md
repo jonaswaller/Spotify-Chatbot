@@ -1,4 +1,4 @@
- # 🤖 [Try the Chatbot](https://huggingface.co/spaces/sjw/Spotify-Chatbot) 🤖
+ # 👉 [Try the Chatbot](https://huggingface.co/spaces/sjw/Spotify-Chatbot) 🤖
  
 ### ✨[Short Demo Video](https://www.youtube.com/watch?v=EiDwQVy2dTQ&t=43s) ✨
 
