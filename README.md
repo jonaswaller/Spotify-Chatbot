@@ -8,7 +8,7 @@
 
 This chatbot interacts with your Spotify to provide a personalized and intelligent music experience. 
 
-Leveraging Spotify's developer resources and OpenAI's GPT-4, this project is a fun example of how APIs, machine learning models, and natural language processing can be combined to create useful applications.
+Leveraging Spotify's developer resources and OpenAI's GPT-4, this project is a fun example of how LLMs and natural language processing can be combined to create useful applications.
 
 ![Commands](commands.png)
 
